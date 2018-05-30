@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://192.168.2.214:9000" />
+          <token>dfcbdf99df9fdf9cdfc9df9edfccdfc8df9fdf9fdf9adf99df9fdf98dfcbdf98dfcfdf9bdf9fdf9bdfccdfccdf9bdfcfdfc9dfc8df93df9adfccdf99df9edfc9df99dfcfdf9cdf9ddf92df9fdf9cdf99</token>
+          <option name="name" value="Lippert Sonarqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
