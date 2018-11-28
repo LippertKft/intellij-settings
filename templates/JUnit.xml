@@ -4,12 +4,12 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="junit-service" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest&#10;@EnableAutoConfiguration" description="Junit Spring Service Test" toReformat="false" toShortenFQNames="true">
+  <template name="junit-service" value="@RunWith(SpringRunner.class)&#10;@SpringBootTest" description="Junit Spring Service Test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="junit-repository" value="@ActiveProfiles(&quot;test&quot;)&#10;@RunWith(SpringRunner.class)&#10;@SpringBootTest&#10;@EnableAutoConfiguration&#10;@DataJpaTest" description="JUnit Spring Repository Test" toReformat="false" toShortenFQNames="true">
+  <template name="junit-repository" value="@ActiveProfiles(&quot;test&quot;)&#10;@RunWith(SpringRunner.class)&#10;@DataJpaTest" description="JUnit Spring Repository Test" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
